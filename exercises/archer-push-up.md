@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: archer-push-up.png
+image: archer-push-up.svg
 related: ['push-up']
 last_performed: null
 ---
 
 # Archer Push Up
 
-![Exercise demonstration](../images/exercises/archer-push-up.png)
+![Exercise demonstration](../images/exercises/archer-push-up.svg)
 
 ## Setup
 

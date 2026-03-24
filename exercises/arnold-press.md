@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: arnold-press.png
+image: arnold-press.svg
 related: ['overhead-press-dumbbell']
 last_performed: null
 ---
 
 # Arnold Press
 
-![Exercise demonstration](../images/exercises/arnold-press.png)
+![Exercise demonstration](../images/exercises/arnold-press.svg)
 
 ## Setup
 

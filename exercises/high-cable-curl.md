@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: high-cable-curl.png
+image: high-cable-curl.svg
 related: ['cable-curl']
 last_performed: null
 ---
 
 # High Cable Curl
 
-![Exercise demonstration](../images/exercises/high-cable-curl.png)
+![Exercise demonstration](../images/exercises/high-cable-curl.svg)
 
 ## Setup
 

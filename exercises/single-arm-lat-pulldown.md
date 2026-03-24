@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: single-arm-lat-pulldown.png
+image: single-arm-lat-pulldown.svg
 related: ['lat-pulldown']
 last_performed: null
 ---
 
 # Single Arm Lat Pulldown
 
-![Exercise demonstration](../images/exercises/single-arm-lat-pulldown.png)
+![Exercise demonstration](../images/exercises/single-arm-lat-pulldown.svg)
 
 ## Setup
 

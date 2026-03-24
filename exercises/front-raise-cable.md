@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: front-raise-cable.png
+image: front-raise-cable.svg
 related: ['front-raise-dumbbell']
 last_performed: null
 ---
 
 # Front Raise Cable
 
-![Exercise demonstration](../images/exercises/front-raise-cable.png)
+![Exercise demonstration](../images/exercises/front-raise-cable.svg)
 
 ## Setup
 

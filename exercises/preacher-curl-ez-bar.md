@@ -5,14 +5,14 @@ equipment: ['ez-bar', 'preacher-bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: preacher-curl-ez-bar.png
+image: preacher-curl-ez-bar.svg
 related: ['preacher-curl-dumbbell']
 last_performed: null
 ---
 
 # Preacher Curl EZ Bar
 
-![Exercise demonstration](../images/exercises/preacher-curl-ez-bar.png)
+![Exercise demonstration](../images/exercises/preacher-curl-ez-bar.svg)
 
 ## Setup
 

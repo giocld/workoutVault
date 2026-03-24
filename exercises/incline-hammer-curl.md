@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: incline-hammer-curl.png
+image: incline-hammer-curl.svg
 related: ['hammer-curl']
 last_performed: null
 ---
 
 # Incline Hammer Curl
 
-![Exercise demonstration](../images/exercises/incline-hammer-curl.png)
+![Exercise demonstration](../images/exercises/incline-hammer-curl.svg)
 
 ## Setup
 

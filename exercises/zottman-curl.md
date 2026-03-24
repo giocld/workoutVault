@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: zottman-curl.png
+image: zottman-curl.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Zottman Curl
 
-![Exercise demonstration](../images/exercises/zottman-curl.png)
+![Exercise demonstration](../images/exercises/zottman-curl.svg)
 
 ## Setup
 

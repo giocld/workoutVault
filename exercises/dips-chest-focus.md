@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'dip-bars']
 muscle_groups: [chest]
 importance: core
 tags: ['chest', 'push']
-image: dips-chest-focus.png
+image: dips-chest-focus.svg
 related: ['bench-press-barbell']
 last_performed: null
 ---
 
 # Dips Chest Focus
 
-![Exercise demonstration](../images/exercises/dips-chest-focus.png)
+![Exercise demonstration](../images/exercises/dips-chest-focus.svg)
 
 ## Setup
 

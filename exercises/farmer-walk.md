@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: farmer-walk.png
+image: farmer-walk.svg
 related: []
 last_performed: null
 ---
 
 # Farmer Walk
 
-![Exercise demonstration](../images/exercises/farmer-walk.png)
+![Exercise demonstration](../images/exercises/farmer-walk.svg)
 
 ## Setup
 

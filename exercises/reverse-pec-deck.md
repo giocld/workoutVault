@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [shoulders]
 importance: core
 tags: ['shoulders', 'push']
-image: reverse-pec-deck.png
+image: reverse-pec-deck.svg
 related: ['face-pull', 'bent-over-fly']
 last_performed: null
 ---
 
 # Reverse Pec Deck
 
-![Exercise demonstration](../images/exercises/reverse-pec-deck.png)
+![Exercise demonstration](../images/exercises/reverse-pec-deck.svg)
 
 ## Setup
 

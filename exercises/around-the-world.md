@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: around-the-world.png
+image: around-the-world.svg
 related: ['lateral-raise-dumbbell']
 last_performed: null
 ---
 
 # Around The World
 
-![Exercise demonstration](../images/exercises/around-the-world.png)
+![Exercise demonstration](../images/exercises/around-the-world.svg)
 
 ## Setup
 

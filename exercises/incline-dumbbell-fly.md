@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: incline-dumbbell-fly.png
+image: incline-dumbbell-fly.svg
 related: ['dumbbell-fly']
 last_performed: null
 ---
 
 # Incline Dumbbell Fly
 
-![Exercise demonstration](../images/exercises/incline-dumbbell-fly.png)
+![Exercise demonstration](../images/exercises/incline-dumbbell-fly.svg)
 
 ## Setup
 

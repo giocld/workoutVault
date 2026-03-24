@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'pull-up-bar']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: neutral-grip-pull-up.png
+image: neutral-grip-pull-up.svg
 related: ['pull-up']
 last_performed: null
 ---
 
 # Neutral Grip Pull Up
 
-![Exercise demonstration](../images/exercises/neutral-grip-pull-up.png)
+![Exercise demonstration](../images/exercises/neutral-grip-pull-up.svg)
 
 ## Setup
 

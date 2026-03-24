@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: wide-grip-push-up.png
+image: wide-grip-push-up.svg
 related: ['push-up']
 last_performed: null
 ---
 
 # Wide Grip Push Up
 
-![Exercise demonstration](../images/exercises/wide-grip-push-up.png)
+![Exercise demonstration](../images/exercises/wide-grip-push-up.svg)
 
 ## Setup
 

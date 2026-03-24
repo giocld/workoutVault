@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: machine-curl.png
+image: machine-curl.svg
 related: ['barbell-curl']
 last_performed: null
 ---
 
 # Machine Curl
 
-![Exercise demonstration](../images/exercises/machine-curl.png)
+![Exercise demonstration](../images/exercises/machine-curl.svg)
 
 ## Setup
 

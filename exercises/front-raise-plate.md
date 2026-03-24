@@ -5,14 +5,14 @@ equipment: ['weight-plate']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: front-raise-plate.png
+image: front-raise-plate.svg
 related: ['front-raise-dumbbell']
 last_performed: null
 ---
 
 # Front Raise Plate
 
-![Exercise demonstration](../images/exercises/front-raise-plate.png)
+![Exercise demonstration](../images/exercises/front-raise-plate.svg)
 
 ## Setup
 

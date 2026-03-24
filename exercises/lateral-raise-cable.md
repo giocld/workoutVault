@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: lateral-raise-cable.png
+image: lateral-raise-cable.svg
 related: ['lateral-raise-dumbbell']
 last_performed: null
 ---
 
 # Lateral Raise Cable
 
-![Exercise demonstration](../images/exercises/lateral-raise-cable.png)
+![Exercise demonstration](../images/exercises/lateral-raise-cable.svg)
 
 ## Setup
 

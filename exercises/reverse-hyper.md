@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: reverse-hyper.png
+image: reverse-hyper.svg
 related: ['back-extension']
 last_performed: null
 ---
 
 # Reverse Hyper
 
-![Exercise demonstration](../images/exercises/reverse-hyper.png)
+![Exercise demonstration](../images/exercises/reverse-hyper.svg)
 
 ## Setup
 

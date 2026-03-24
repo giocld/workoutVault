@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: chest-supported-reverse-fly.png
+image: chest-supported-reverse-fly.svg
 related: ['reverse-pec-deck']
 last_performed: null
 ---
 
 # Chest Supported Reverse Fly
 
-![Exercise demonstration](../images/exercises/chest-supported-reverse-fly.png)
+![Exercise demonstration](../images/exercises/chest-supported-reverse-fly.svg)
 
 ## Setup
 

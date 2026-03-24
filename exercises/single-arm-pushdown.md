@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: single-arm-pushdown.png
+image: single-arm-pushdown.svg
 related: ['tricep-pushdown']
 last_performed: null
 ---
 
 # Single Arm Pushdown
 
-![Exercise demonstration](../images/exercises/single-arm-pushdown.png)
+![Exercise demonstration](../images/exercises/single-arm-pushdown.svg)
 
 ## Setup
 

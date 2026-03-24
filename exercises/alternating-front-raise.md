@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: alternating-front-raise.png
+image: alternating-front-raise.svg
 related: ['front-raise-dumbbell']
 last_performed: null
 ---
 
 # Alternating Front Raise
 
-![Exercise demonstration](../images/exercises/alternating-front-raise.png)
+![Exercise demonstration](../images/exercises/alternating-front-raise.svg)
 
 ## Setup
 

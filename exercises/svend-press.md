@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: svend-press.png
+image: svend-press.svg
 related: []
 last_performed: null
 ---
 
 # Svend Press
 
-![Exercise demonstration](../images/exercises/svend-press.png)
+![Exercise demonstration](../images/exercises/svend-press.svg)
 
 ## Setup
 

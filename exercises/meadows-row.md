@@ -5,14 +5,14 @@ equipment: ['barbell', 'landmine']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: meadows-row.png
+image: meadows-row.svg
 related: ['t-bar-row']
 last_performed: null
 ---
 
 # Meadows Row
 
-![Exercise demonstration](../images/exercises/meadows-row.png)
+![Exercise demonstration](../images/exercises/meadows-row.svg)
 
 ## Setup
 

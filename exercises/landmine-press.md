@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: landmine-press.png
+image: landmine-press.svg
 related: ['bench-press-barbell']
 last_performed: null
 ---
 
 # Landmine Press
 
-![Exercise demonstration](../images/exercises/landmine-press.png)
+![Exercise demonstration](../images/exercises/landmine-press.svg)
 
 ## Setup
 

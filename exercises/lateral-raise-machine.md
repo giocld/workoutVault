@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: lateral-raise-machine.png
+image: lateral-raise-machine.svg
 related: ['lateral-raise-dumbbell']
 last_performed: null
 ---
 
 # Lateral Raise Machine
 
-![Exercise demonstration](../images/exercises/lateral-raise-machine.png)
+![Exercise demonstration](../images/exercises/lateral-raise-machine.svg)
 
 ## Setup
 

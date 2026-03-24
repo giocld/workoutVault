@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: pendlay-row.png
+image: pendlay-row.svg
 related: ['barbell-row']
 last_performed: null
 ---
 
 # Pendlay Row
 
-![Exercise demonstration](../images/exercises/pendlay-row.png)
+![Exercise demonstration](../images/exercises/pendlay-row.svg)
 
 ## Setup
 

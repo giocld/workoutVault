@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: single-arm-overhead-extension.png
+image: single-arm-overhead-extension.svg
 related: ['overhead-tricep-extension']
 last_performed: null
 ---
 
 # Single Arm Overhead Extension
 
-![Exercise demonstration](../images/exercises/single-arm-overhead-extension.png)
+![Exercise demonstration](../images/exercises/single-arm-overhead-extension.svg)
 
 ## Setup
 

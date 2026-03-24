@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: cross-body-tricep-extension.png
+image: cross-body-tricep-extension.svg
 related: ['tricep-pushdown']
 last_performed: null
 ---
 
 # Cross Body Tricep Extension
 
-![Exercise demonstration](../images/exercises/cross-body-tricep-extension.png)
+![Exercise demonstration](../images/exercises/cross-body-tricep-extension.svg)
 
 ## Setup
 

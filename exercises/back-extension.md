@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'back-extension-bench']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: back-extension.png
+image: back-extension.svg
 related: ['good-morning']
 last_performed: null
 ---
 
 # Back Extension
 
-![Exercise demonstration](../images/exercises/back-extension.png)
+![Exercise demonstration](../images/exercises/back-extension.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: decline-skullcrusher.png
+image: decline-skullcrusher.svg
 related: ['skullcrusher']
 last_performed: null
 ---
 
 # Decline Skullcrusher
 
-![Exercise demonstration](../images/exercises/decline-skullcrusher.png)
+![Exercise demonstration](../images/exercises/decline-skullcrusher.svg)
 
 ## Setup
 

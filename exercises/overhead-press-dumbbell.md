@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: core
 tags: ['shoulders', 'push']
-image: overhead-press-dumbbell.png
+image: overhead-press-dumbbell.svg
 related: ['overhead-press-barbell', 'arnold-press']
 last_performed: null
 ---
 
 # Overhead Press Dumbbell
 
-![Exercise demonstration](../images/exercises/overhead-press-dumbbell.png)
+![Exercise demonstration](../images/exercises/overhead-press-dumbbell.svg)
 
 ## Setup
 

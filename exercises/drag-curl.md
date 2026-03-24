@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: drag-curl.png
+image: drag-curl.svg
 related: ['barbell-curl']
 last_performed: null
 ---
 
 # Drag Curl
 
-![Exercise demonstration](../images/exercises/drag-curl.png)
+![Exercise demonstration](../images/exercises/drag-curl.svg)
 
 ## Setup
 

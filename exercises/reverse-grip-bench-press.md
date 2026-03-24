@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: reverse-grip-bench-press.png
+image: reverse-grip-bench-press.svg
 related: []
 last_performed: null
 ---
 
 # Reverse Grip Bench Press
 
-![Exercise demonstration](../images/exercises/reverse-grip-bench-press.png)
+![Exercise demonstration](../images/exercises/reverse-grip-bench-press.svg)
 
 ## Setup
 

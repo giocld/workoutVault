@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: bench-dip.png
+image: bench-dip.svg
 related: ['dip']
 last_performed: null
 ---
 
 # Bench Dip
 
-![Exercise demonstration](../images/exercises/bench-dip.png)
+![Exercise demonstration](../images/exercises/bench-dip.svg)
 
 ## Setup
 

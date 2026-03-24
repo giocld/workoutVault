@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: single-arm-lateral-raise.png
+image: single-arm-lateral-raise.svg
 related: ['lateral-raise-dumbbell']
 last_performed: null
 ---
 
 # Single Arm Lateral Raise
 
-![Exercise demonstration](../images/exercises/single-arm-lateral-raise.png)
+![Exercise demonstration](../images/exercises/single-arm-lateral-raise.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: good-morning.png
+image: good-morning.svg
 related: ['back-extension']
 last_performed: null
 ---
 
 # Good Morning
 
-![Exercise demonstration](../images/exercises/good-morning.png)
+![Exercise demonstration](../images/exercises/good-morning.svg)
 
 ## Setup
 

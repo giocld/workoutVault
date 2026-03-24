@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: decline-bench-press-barbell.png
+image: decline-bench-press-barbell.svg
 related: ['decline-bench-press-dumbbell']
 last_performed: null
 ---
 
 # Decline Bench Press Barbell
 
-![Exercise demonstration](../images/exercises/decline-bench-press-barbell.png)
+![Exercise demonstration](../images/exercises/decline-bench-press-barbell.svg)
 
 ## Setup
 

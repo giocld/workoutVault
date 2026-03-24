@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: preacher-curl-machine.png
+image: preacher-curl-machine.svg
 related: ['preacher-curl-dumbbell']
 last_performed: null
 ---
 
 # Preacher Curl Machine
 
-![Exercise demonstration](../images/exercises/preacher-curl-machine.png)
+![Exercise demonstration](../images/exercises/preacher-curl-machine.svg)
 
 ## Setup
 

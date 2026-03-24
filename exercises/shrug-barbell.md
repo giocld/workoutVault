@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: shrug-barbell.png
+image: shrug-barbell.svg
 related: ['shrug-dumbbell']
 last_performed: null
 ---
 
 # Shrug Barbell
 
-![Exercise demonstration](../images/exercises/shrug-barbell.png)
+![Exercise demonstration](../images/exercises/shrug-barbell.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: dumbbell-squeeze-press.png
+image: dumbbell-squeeze-press.svg
 related: ['bench-press-dumbbell']
 last_performed: null
 ---
 
 # Dumbbell Squeeze Press
 
-![Exercise demonstration](../images/exercises/dumbbell-squeeze-press.png)
+![Exercise demonstration](../images/exercises/dumbbell-squeeze-press.svg)
 
 ## Setup
 

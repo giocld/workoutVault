@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: front-raise-dumbbell.png
+image: front-raise-dumbbell.svg
 related: ['front-raise-cable', 'overhead-press']
 last_performed: null
 ---
 
 # Front Raise Dumbbell
 
-![Exercise demonstration](../images/exercises/front-raise-dumbbell.png)
+![Exercise demonstration](../images/exercises/front-raise-dumbbell.svg)
 
 ## Setup
 

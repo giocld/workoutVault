@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'preacher-bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: preacher-curl-dumbbell.png
+image: preacher-curl-dumbbell.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Preacher Curl Dumbbell
 
-![Exercise demonstration](../images/exercises/preacher-curl-dumbbell.png)
+![Exercise demonstration](../images/exercises/preacher-curl-dumbbell.svg)
 
 ## Setup
 

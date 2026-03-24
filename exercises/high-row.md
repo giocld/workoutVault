@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: high-row.png
+image: high-row.svg
 related: ['face-pull']
 last_performed: null
 ---
 
 # High Row
 
-![Exercise demonstration](../images/exercises/high-row.png)
+![Exercise demonstration](../images/exercises/high-row.svg)
 
 ## Setup
 

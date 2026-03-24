@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: decline-push-up.png
+image: decline-push-up.svg
 related: ['push-up', 'incline-push-up']
 last_performed: null
 ---
 
 # Decline Push Up
 
-![Exercise demonstration](../images/exercises/decline-push-up.png)
+![Exercise demonstration](../images/exercises/decline-push-up.svg)
 
 ## Setup
 

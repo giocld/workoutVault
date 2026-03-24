@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: close-grip-push-up.png
+image: close-grip-push-up.svg
 related: ['push-up', 'close-grip-bench-press']
 last_performed: null
 ---
 
 # Close Grip Push Up
 
-![Exercise demonstration](../images/exercises/close-grip-push-up.png)
+![Exercise demonstration](../images/exercises/close-grip-push-up.svg)
 
 ## Setup
 

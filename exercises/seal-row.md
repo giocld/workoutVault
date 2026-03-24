@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: seal-row.png
+image: seal-row.svg
 related: ['barbell-row']
 last_performed: null
 ---
 
 # Seal Row
 
-![Exercise demonstration](../images/exercises/seal-row.png)
+![Exercise demonstration](../images/exercises/seal-row.svg)
 
 ## Setup
 

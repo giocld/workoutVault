@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'dip-bars']
 muscle_groups: [triceps]
 importance: core
 tags: ['triceps', 'push']
-image: dip.png
+image: dip.svg
 related: ['close-grip-bench-press', 'tricep-pushdown']
 last_performed: null
 ---
 
 # Dip
 
-![Exercise demonstration](../images/exercises/dip.png)
+![Exercise demonstration](../images/exercises/dip.svg)
 
 ## Setup
 

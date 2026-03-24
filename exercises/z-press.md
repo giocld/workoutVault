@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: z-press.png
+image: z-press.svg
 related: ['overhead-press-barbell']
 last_performed: null
 ---
 
 # Z Press
 
-![Exercise demonstration](../images/exercises/z-press.png)
+![Exercise demonstration](../images/exercises/z-press.svg)
 
 ## Setup
 

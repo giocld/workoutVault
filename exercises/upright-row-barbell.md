@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: upright-row-barbell.png
+image: upright-row-barbell.svg
 related: ['upright-row-dumbbell', 'lateral-raise']
 last_performed: null
 ---
 
 # Upright Row Barbell
 
-![Exercise demonstration](../images/exercises/upright-row-barbell.png)
+![Exercise demonstration](../images/exercises/upright-row-barbell.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: reverse-grip-pushdown.png
+image: reverse-grip-pushdown.svg
 related: ['tricep-pushdown']
 last_performed: null
 ---
 
 # Reverse Grip Pushdown
 
-![Exercise demonstration](../images/exercises/reverse-grip-pushdown.png)
+![Exercise demonstration](../images/exercises/reverse-grip-pushdown.svg)
 
 ## Setup
 

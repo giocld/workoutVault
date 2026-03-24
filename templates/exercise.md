@@ -5,14 +5,14 @@ equipment: []
 muscle_groups: []
 importance: accessory
 tags: []
-image: {{filename}}.png
+image: {{filename}}.svg
 related: []
 last_performed: null
 ---
 
 # {{name}}
 
-![Exercise demonstration](../images/exercises/{{filename}}.png)
+![Exercise demonstration](../images/exercises/{{filename}}.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: floor-press.png
+image: floor-press.svg
 related: ['bench-press-barbell']
 last_performed: null
 ---
 
 # Floor Press
 
-![Exercise demonstration](../images/exercises/floor-press.png)
+![Exercise demonstration](../images/exercises/floor-press.svg)
 
 ## Setup
 

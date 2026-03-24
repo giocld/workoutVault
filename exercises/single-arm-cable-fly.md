@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: single-arm-cable-fly.png
+image: single-arm-cable-fly.svg
 related: ['cable-fly']
 last_performed: null
 ---
 
 # Single Arm Cable Fly
 
-![Exercise demonstration](../images/exercises/single-arm-cable-fly.png)
+![Exercise demonstration](../images/exercises/single-arm-cable-fly.svg)
 
 ## Setup
 

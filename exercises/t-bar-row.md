@@ -5,14 +5,14 @@ equipment: ['barbell', 'landmine']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: t-bar-row.png
+image: t-bar-row.svg
 related: ['barbell-row']
 last_performed: null
 ---
 
 # T Bar Row
 
-![Exercise demonstration](../images/exercises/t-bar-row.png)
+![Exercise demonstration](../images/exercises/t-bar-row.svg)
 
 ## Setup
 

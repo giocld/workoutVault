@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: cable-lying-tricep-extension.png
+image: cable-lying-tricep-extension.svg
 related: ['skullcrusher']
 last_performed: null
 ---
 
 # Cable Lying Tricep Extension
 
-![Exercise demonstration](../images/exercises/cable-lying-tricep-extension.png)
+![Exercise demonstration](../images/exercises/cable-lying-tricep-extension.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: close-grip-lat-pulldown.png
+image: close-grip-lat-pulldown.svg
 related: ['lat-pulldown']
 last_performed: null
 ---
 
 # Close Grip Lat Pulldown
 
-![Exercise demonstration](../images/exercises/close-grip-lat-pulldown.png)
+![Exercise demonstration](../images/exercises/close-grip-lat-pulldown.svg)
 
 ## Setup
 

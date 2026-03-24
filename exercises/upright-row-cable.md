@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: upright-row-cable.png
+image: upright-row-cable.svg
 related: ['upright-row-barbell']
 last_performed: null
 ---
 
 # Upright Row Cable
 
-![Exercise demonstration](../images/exercises/upright-row-cable.png)
+![Exercise demonstration](../images/exercises/upright-row-cable.svg)
 
 ## Setup
 

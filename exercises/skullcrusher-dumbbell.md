@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: skullcrusher-dumbbell.png
+image: skullcrusher-dumbbell.svg
 related: ['skullcrusher-barbell']
 last_performed: null
 ---
 
 # Skullcrusher Dumbbell
 
-![Exercise demonstration](../images/exercises/skullcrusher-dumbbell.png)
+![Exercise demonstration](../images/exercises/skullcrusher-dumbbell.svg)
 
 ## Setup
 

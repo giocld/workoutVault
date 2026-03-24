@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: core
 tags: ['chest', 'push']
-image: push-up.png
+image: push-up.svg
 related: ['diamond-push-up', 'incline-push-up']
 last_performed: null
 ---
 
 # Push Up
 
-![Exercise demonstration](../images/exercises/push-up.png)
+![Exercise demonstration](../images/exercises/push-up.svg)
 
 ## Setup
 

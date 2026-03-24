@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'pull-up-bar']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: wide-grip-pull-up.png
+image: wide-grip-pull-up.svg
 related: ['pull-up']
 last_performed: null
 ---
 
 # Wide Grip Pull Up
 
-![Exercise demonstration](../images/exercises/wide-grip-pull-up.png)
+![Exercise demonstration](../images/exercises/wide-grip-pull-up.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: leaning-lateral-raise.png
+image: leaning-lateral-raise.svg
 related: ['lateral-raise-dumbbell']
 last_performed: null
 ---
 
 # Leaning Lateral Raise
 
-![Exercise demonstration](../images/exercises/leaning-lateral-raise.png)
+![Exercise demonstration](../images/exercises/leaning-lateral-raise.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: tricep-pushdown-v-bar.png
+image: tricep-pushdown-v-bar.svg
 related: ['tricep-pushdown-rope']
 last_performed: null
 ---
 
 # Tricep Pushdown V Bar
 
-![Exercise demonstration](../images/exercises/tricep-pushdown-v-bar.png)
+![Exercise demonstration](../images/exercises/tricep-pushdown-v-bar.svg)
 
 ## Setup
 

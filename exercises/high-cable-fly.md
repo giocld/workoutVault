@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: high-cable-fly.png
+image: high-cable-fly.svg
 related: ['cable-fly']
 last_performed: null
 ---
 
 # High Cable Fly
 
-![Exercise demonstration](../images/exercises/high-cable-fly.png)
+![Exercise demonstration](../images/exercises/high-cable-fly.svg)
 
 ## Setup
 

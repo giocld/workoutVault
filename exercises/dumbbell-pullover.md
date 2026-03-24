@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: dumbbell-pullover.png
+image: dumbbell-pullover.svg
 related: []
 last_performed: null
 ---
 
 # Dumbbell Pullover
 
-![Exercise demonstration](../images/exercises/dumbbell-pullover.png)
+![Exercise demonstration](../images/exercises/dumbbell-pullover.svg)
 
 ## Setup
 

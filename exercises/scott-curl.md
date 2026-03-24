@@ -5,14 +5,14 @@ equipment: ['ez-bar', 'scott-bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: scott-curl.png
+image: scott-curl.svg
 related: ['preacher-curl']
 last_performed: null
 ---
 
 # Scott Curl
 
-![Exercise demonstration](../images/exercises/scott-curl.png)
+![Exercise demonstration](../images/exercises/scott-curl.svg)
 
 ## Setup
 

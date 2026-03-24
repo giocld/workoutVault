@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: core
 tags: ['shoulders', 'push']
-image: lateral-raise-dumbbell.png
+image: lateral-raise-dumbbell.svg
 related: ['lateral-raise-cable', 'upright-row']
 last_performed: null
 ---
 
 # Lateral Raise Dumbbell
 
-![Exercise demonstration](../images/exercises/lateral-raise-dumbbell.png)
+![Exercise demonstration](../images/exercises/lateral-raise-dumbbell.svg)
 
 ## Setup
 

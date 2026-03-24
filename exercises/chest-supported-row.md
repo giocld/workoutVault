@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: chest-supported-row.png
+image: chest-supported-row.svg
 related: ['dumbbell-row']
 last_performed: null
 ---
 
 # Chest Supported Row
 
-![Exercise demonstration](../images/exercises/chest-supported-row.png)
+![Exercise demonstration](../images/exercises/chest-supported-row.svg)
 
 ## Setup
 

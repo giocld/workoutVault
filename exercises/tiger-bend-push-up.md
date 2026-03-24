@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: tiger-bend-push-up.png
+image: tiger-bend-push-up.svg
 related: ['push-up']
 last_performed: null
 ---
 
 # Tiger Bend Push Up
 
-![Exercise demonstration](../images/exercises/tiger-bend-push-up.png)
+![Exercise demonstration](../images/exercises/tiger-bend-push-up.svg)
 
 ## Setup
 

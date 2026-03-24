@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: dumbbell-row.png
+image: dumbbell-row.svg
 related: ['barbell-row', 'cable-row']
 last_performed: null
 ---
 
 # Dumbbell Row
 
-![Exercise demonstration](../images/exercises/dumbbell-row.png)
+![Exercise demonstration](../images/exercises/dumbbell-row.svg)
 
 ## Setup
 

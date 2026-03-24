@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: rope-hammer-curl.png
+image: rope-hammer-curl.svg
 related: ['hammer-curl']
 last_performed: null
 ---
 
 # Rope Hammer Curl
 
-![Exercise demonstration](../images/exercises/rope-hammer-curl.png)
+![Exercise demonstration](../images/exercises/rope-hammer-curl.svg)
 
 ## Setup
 

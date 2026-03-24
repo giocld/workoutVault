@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: seated-dumbbell-curl.png
+image: seated-dumbbell-curl.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Seated Dumbbell Curl
 
-![Exercise demonstration](../images/exercises/seated-dumbbell-curl.png)
+![Exercise demonstration](../images/exercises/seated-dumbbell-curl.svg)
 
 ## Setup
 

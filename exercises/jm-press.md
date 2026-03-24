@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: jm-press.png
+image: jm-press.svg
 related: ['skullcrusher', 'close-grip-bench-press']
 last_performed: null
 ---
 
 # JM Press
 
-![Exercise demonstration](../images/exercises/jm-press.png)
+![Exercise demonstration](../images/exercises/jm-press.svg)
 
 ## Setup
 

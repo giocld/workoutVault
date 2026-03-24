@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: rear-delt-row.png
+image: rear-delt-row.svg
 related: ['face-pull']
 last_performed: null
 ---
 
 # Rear Delt Row
 
-![Exercise demonstration](../images/exercises/rear-delt-row.png)
+![Exercise demonstration](../images/exercises/rear-delt-row.svg)
 
 ## Setup
 

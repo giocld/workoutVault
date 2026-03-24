@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: bayesian-curl.png
+image: bayesian-curl.svg
 related: ['cable-curl']
 last_performed: null
 ---
 
 # Bayesian Curl
 
-![Exercise demonstration](../images/exercises/bayesian-curl.png)
+![Exercise demonstration](../images/exercises/bayesian-curl.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: tricep-kickback-dumbbell.png
+image: tricep-kickback-dumbbell.svg
 related: ['tricep-pushdown']
 last_performed: null
 ---
 
 # Tricep Kickback Dumbbell
 
-![Exercise demonstration](../images/exercises/tricep-kickback-dumbbell.png)
+![Exercise demonstration](../images/exercises/tricep-kickback-dumbbell.svg)
 
 ## Setup
 

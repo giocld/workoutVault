@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: lat-pulldown.png
+image: lat-pulldown.svg
 related: ['pull-up', 'chin-up']
 last_performed: null
 ---
 
 # Lat Pulldown
 
-![Exercise demonstration](../images/exercises/lat-pulldown.png)
+![Exercise demonstration](../images/exercises/lat-pulldown.svg)
 
 ## Setup
 

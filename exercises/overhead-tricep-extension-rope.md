@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: overhead-tricep-extension-rope.png
+image: overhead-tricep-extension-rope.svg
 related: ['overhead-tricep-extension']
 last_performed: null
 ---
 
 # Overhead Tricep Extension Rope
 
-![Exercise demonstration](../images/exercises/overhead-tricep-extension-rope.png)
+![Exercise demonstration](../images/exercises/overhead-tricep-extension-rope.svg)
 
 ## Setup
 

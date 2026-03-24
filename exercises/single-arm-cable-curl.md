@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: single-arm-cable-curl.png
+image: single-arm-cable-curl.svg
 related: ['cable-curl']
 last_performed: null
 ---
 
 # Single Arm Cable Curl
 
-![Exercise demonstration](../images/exercises/single-arm-cable-curl.png)
+![Exercise demonstration](../images/exercises/single-arm-cable-curl.svg)
 
 ## Setup
 

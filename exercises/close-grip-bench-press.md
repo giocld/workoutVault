@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: close-grip-bench-press.png
+image: close-grip-bench-press.svg
 related: ['bench-press-barbell']
 last_performed: null
 ---
 
 # Close Grip Bench Press
 
-![Exercise demonstration](../images/exercises/close-grip-bench-press.png)
+![Exercise demonstration](../images/exercises/close-grip-bench-press.svg)
 
 ## Setup
 

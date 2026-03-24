@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [chest]
 importance: core
 tags: ['chest', 'push']
-image: bench-press-dumbbell.png
+image: bench-press-dumbbell.svg
 related: ['bench-press-barbell', 'incline-press-dumbbell']
 last_performed: null
 ---
 
 # Bench Press Dumbbell
 
-![Exercise demonstration](../images/exercises/bench-press-dumbbell.png)
+![Exercise demonstration](../images/exercises/bench-press-dumbbell.svg)
 
 ## Setup
 

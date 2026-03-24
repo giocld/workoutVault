@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'pull-up-bar']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: chin-up.png
+image: chin-up.svg
 related: ['pull-up', 'lat-pulldown']
 last_performed: null
 ---
 
 # Chin Up
 
-![Exercise demonstration](../images/exercises/chin-up.png)
+![Exercise demonstration](../images/exercises/chin-up.svg)
 
 ## Setup
 

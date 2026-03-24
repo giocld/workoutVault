@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [back]
 importance: core
 tags: ['back', 'pull']
-image: cable-row.png
+image: cable-row.svg
 related: ['barbell-row', 'machine-row']
 last_performed: null
 ---
 
 # Cable Row
 
-![Exercise demonstration](../images/exercises/cable-row.png)
+![Exercise demonstration](../images/exercises/cable-row.svg)
 
 ## Setup
 

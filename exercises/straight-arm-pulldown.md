@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: straight-arm-pulldown.png
+image: straight-arm-pulldown.svg
 related: ['lat-pulldown']
 last_performed: null
 ---
 
 # Straight Arm Pulldown
 
-![Exercise demonstration](../images/exercises/straight-arm-pulldown.png)
+![Exercise demonstration](../images/exercises/straight-arm-pulldown.svg)
 
 ## Setup
 

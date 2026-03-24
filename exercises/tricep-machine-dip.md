@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: tricep-machine-dip.png
+image: tricep-machine-dip.svg
 related: ['dip']
 last_performed: null
 ---
 
 # Tricep Machine Dip
 
-![Exercise demonstration](../images/exercises/tricep-machine-dip.png)
+![Exercise demonstration](../images/exercises/tricep-machine-dip.svg)
 
 ## Setup
 

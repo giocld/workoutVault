@@ -5,14 +5,14 @@ equipment: ['weight-plate']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: plate-press.png
+image: plate-press.svg
 related: ['svend-press']
 last_performed: null
 ---
 
 # Plate Press
 
-![Exercise demonstration](../images/exercises/plate-press.png)
+![Exercise demonstration](../images/exercises/plate-press.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: plyometric-push-up.png
+image: plyometric-push-up.svg
 related: ['push-up']
 last_performed: null
 ---
 
 # Plyometric Push Up
 
-![Exercise demonstration](../images/exercises/plyometric-push-up.png)
+![Exercise demonstration](../images/exercises/plyometric-push-up.svg)
 
 ## Setup
 

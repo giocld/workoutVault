@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: diamond-push-up.png
+image: diamond-push-up.svg
 related: ['push-up', 'close-grip-bench-press']
 last_performed: null
 ---
 
 # Diamond Push Up
 
-![Exercise demonstration](../images/exercises/diamond-push-up.png)
+![Exercise demonstration](../images/exercises/diamond-push-up.svg)
 
 ## Setup
 

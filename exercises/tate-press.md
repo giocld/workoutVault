@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: tate-press.png
+image: tate-press.svg
 related: ['skullcrusher-dumbbell']
 last_performed: null
 ---
 
 # Tate Press
 
-![Exercise demonstration](../images/exercises/tate-press.png)
+![Exercise demonstration](../images/exercises/tate-press.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [triceps]
 importance: core
 tags: ['triceps', 'push']
-image: overhead-tricep-extension-dumbbell.png
+image: overhead-tricep-extension-dumbbell.svg
 related: ['overhead-tricep-extension-cable', 'skullcrusher']
 last_performed: null
 ---
 
 # Overhead Tricep Extension Dumbbell
 
-![Exercise demonstration](../images/exercises/overhead-tricep-extension-dumbbell.png)
+![Exercise demonstration](../images/exercises/overhead-tricep-extension-dumbbell.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: spider-curl.png
+image: spider-curl.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Spider Curl
 
-![Exercise demonstration](../images/exercises/spider-curl.png)
+![Exercise demonstration](../images/exercises/spider-curl.svg)
 
 ## Setup
 

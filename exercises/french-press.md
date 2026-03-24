@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: french-press.png
+image: french-press.svg
 related: ['skullcrusher']
 last_performed: null
 ---
 
 # French Press
 
-![Exercise demonstration](../images/exercises/french-press.png)
+![Exercise demonstration](../images/exercises/french-press.svg)
 
 ## Setup
 

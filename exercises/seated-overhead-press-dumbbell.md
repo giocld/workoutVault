@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: seated-overhead-press-dumbbell.png
+image: seated-overhead-press-dumbbell.svg
 related: ['overhead-press-dumbbell']
 last_performed: null
 ---
 
 # Seated Overhead Press Dumbbell
 
-![Exercise demonstration](../images/exercises/seated-overhead-press-dumbbell.png)
+![Exercise demonstration](../images/exercises/seated-overhead-press-dumbbell.svg)
 
 ## Setup
 

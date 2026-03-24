@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [biceps]
 importance: core
 tags: ['biceps', 'pull']
-image: barbell-curl.png
+image: barbell-curl.svg
 related: ['dumbbell-curl', 'ez-bar-curl']
 last_performed: null
 ---
 
 # Barbell Curl
 
-![Exercise demonstration](../images/exercises/barbell-curl.png)
+![Exercise demonstration](../images/exercises/barbell-curl.svg)
 
 ## Setup
 

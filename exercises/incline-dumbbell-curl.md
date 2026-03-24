@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: incline-dumbbell-curl.png
+image: incline-dumbbell-curl.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Incline Dumbbell Curl
 
-![Exercise demonstration](../images/exercises/incline-dumbbell-curl.png)
+![Exercise demonstration](../images/exercises/incline-dumbbell-curl.svg)
 
 ## Setup
 

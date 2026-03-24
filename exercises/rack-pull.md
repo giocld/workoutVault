@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: rack-pull.png
+image: rack-pull.svg
 related: ['deadlift']
 last_performed: null
 ---
 
 # Rack Pull
 
-![Exercise demonstration](../images/exercises/rack-pull.png)
+![Exercise demonstration](../images/exercises/rack-pull.svg)
 
 ## Setup
 

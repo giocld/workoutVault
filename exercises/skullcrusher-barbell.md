@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [triceps]
 importance: core
 tags: ['triceps', 'push']
-image: skullcrusher-barbell.png
+image: skullcrusher-barbell.svg
 related: ['skullcrusher-dumbbell', 'close-grip-bench-press']
 last_performed: null
 ---
 
 # Skullcrusher Barbell
 
-![Exercise demonstration](../images/exercises/skullcrusher-barbell.png)
+![Exercise demonstration](../images/exercises/skullcrusher-barbell.svg)
 
 ## Setup
 

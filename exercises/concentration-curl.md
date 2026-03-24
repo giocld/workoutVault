@@ -5,14 +5,14 @@ equipment: ['dumbbells', 'bench']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: concentration-curl.png
+image: concentration-curl.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Concentration Curl
 
-![Exercise demonstration](../images/exercises/concentration-curl.png)
+![Exercise demonstration](../images/exercises/concentration-curl.svg)
 
 ## Setup
 

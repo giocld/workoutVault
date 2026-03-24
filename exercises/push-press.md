@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: push-press.png
+image: push-press.svg
 related: ['overhead-press-barbell']
 last_performed: null
 ---
 
 # Push Press
 
-![Exercise demonstration](../images/exercises/push-press.png)
+![Exercise demonstration](../images/exercises/push-press.svg)
 
 ## Setup
 

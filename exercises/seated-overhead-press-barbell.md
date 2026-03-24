@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: seated-overhead-press-barbell.png
+image: seated-overhead-press-barbell.svg
 related: ['overhead-press-barbell']
 last_performed: null
 ---
 
 # Seated Overhead Press Barbell
 
-![Exercise demonstration](../images/exercises/seated-overhead-press-barbell.png)
+![Exercise demonstration](../images/exercises/seated-overhead-press-barbell.svg)
 
 ## Setup
 

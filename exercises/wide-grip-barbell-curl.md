@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: wide-grip-barbell-curl.png
+image: wide-grip-barbell-curl.svg
 related: ['barbell-curl']
 last_performed: null
 ---
 
 # Wide Grip Barbell Curl
 
-![Exercise demonstration](../images/exercises/wide-grip-barbell-curl.png)
+![Exercise demonstration](../images/exercises/wide-grip-barbell-curl.svg)
 
 ## Setup
 

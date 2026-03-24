@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: close-grip-barbell-curl.png
+image: close-grip-barbell-curl.svg
 related: ['barbell-curl']
 last_performed: null
 ---
 
 # Close Grip Barbell Curl
 
-![Exercise demonstration](../images/exercises/close-grip-barbell-curl.png)
+![Exercise demonstration](../images/exercises/close-grip-barbell-curl.svg)
 
 ## Setup
 

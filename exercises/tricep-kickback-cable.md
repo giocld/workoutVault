@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [triceps]
 importance: accessory
 tags: ['triceps', 'push']
-image: tricep-kickback-cable.png
+image: tricep-kickback-cable.svg
 related: ['tricep-kickback-dumbbell']
 last_performed: null
 ---
 
 # Tricep Kickback Cable
 
-![Exercise demonstration](../images/exercises/tricep-kickback-cable.png)
+![Exercise demonstration](../images/exercises/tricep-kickback-cable.svg)
 
 ## Setup
 

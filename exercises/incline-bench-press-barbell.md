@@ -5,14 +5,14 @@ equipment: ['barbell', 'bench']
 muscle_groups: [chest]
 importance: core
 tags: ['chest', 'push']
-image: incline-bench-press-barbell.png
+image: incline-bench-press-barbell.svg
 related: ['incline-bench-press-dumbbell', 'bench-press-barbell']
 last_performed: null
 ---
 
 # Incline Bench Press Barbell
 
-![Exercise demonstration](../images/exercises/incline-bench-press-barbell.png)
+![Exercise demonstration](../images/exercises/incline-bench-press-barbell.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: bent-over-fly-dumbbell.png
+image: bent-over-fly-dumbbell.svg
 related: ['face-pull', 'reverse-pec-deck']
 last_performed: null
 ---
 
 # Bent Over Fly Dumbbell
 
-![Exercise demonstration](../images/exercises/bent-over-fly-dumbbell.png)
+![Exercise demonstration](../images/exercises/bent-over-fly-dumbbell.svg)
 
 ## Setup
 

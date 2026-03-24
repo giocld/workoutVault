@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: hammer-strength-press.png
+image: hammer-strength-press.svg
 related: ['bench-press-barbell']
 last_performed: null
 ---
 
 # Hammer Strength Press
 
-![Exercise demonstration](../images/exercises/hammer-strength-press.png)
+![Exercise demonstration](../images/exercises/hammer-strength-press.svg)
 
 ## Setup
 

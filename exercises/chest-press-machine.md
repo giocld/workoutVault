@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: chest-press-machine.png
+image: chest-press-machine.svg
 related: ['bench-press-barbell']
 last_performed: null
 ---
 
 # Chest Press Machine
 
-![Exercise demonstration](../images/exercises/chest-press-machine.png)
+![Exercise demonstration](../images/exercises/chest-press-machine.svg)
 
 ## Setup
 

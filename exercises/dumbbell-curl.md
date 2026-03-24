@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [biceps]
 importance: core
 tags: ['biceps', 'pull']
-image: dumbbell-curl.png
+image: dumbbell-curl.svg
 related: ['barbell-curl', 'hammer-curl']
 last_performed: null
 ---
 
 # Dumbbell Curl
 
-![Exercise demonstration](../images/exercises/dumbbell-curl.png)
+![Exercise demonstration](../images/exercises/dumbbell-curl.svg)
 
 ## Setup
 

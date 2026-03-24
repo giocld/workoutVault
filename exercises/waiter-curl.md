@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: waiter-curl.png
+image: waiter-curl.svg
 related: ['dumbbell-curl']
 last_performed: null
 ---
 
 # Waiter Curl
 
-![Exercise demonstration](../images/exercises/waiter-curl.png)
+![Exercise demonstration](../images/exercises/waiter-curl.svg)
 
 ## Setup
 

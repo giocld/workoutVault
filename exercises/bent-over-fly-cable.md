@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: bent-over-fly-cable.png
+image: bent-over-fly-cable.svg
 related: ['bent-over-fly-dumbbell']
 last_performed: null
 ---
 
 # Bent Over Fly Cable
 
-![Exercise demonstration](../images/exercises/bent-over-fly-cable.png)
+![Exercise demonstration](../images/exercises/bent-over-fly-cable.svg)
 
 ## Setup
 

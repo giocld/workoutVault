@@ -5,14 +5,14 @@ equipment: ['machine']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: incline-chest-press-machine.png
+image: incline-chest-press-machine.svg
 related: ['incline-bench-press-barbell']
 last_performed: null
 ---
 
 # Incline Chest Press Machine
 
-![Exercise demonstration](../images/exercises/incline-chest-press-machine.png)
+![Exercise demonstration](../images/exercises/incline-chest-press-machine.svg)
 
 ## Setup
 

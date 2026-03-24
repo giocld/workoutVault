@@ -5,14 +5,14 @@ equipment: ['bodyweight']
 muscle_groups: [chest]
 importance: accessory
 tags: ['chest', 'push']
-image: incline-push-up.png
+image: incline-push-up.svg
 related: ['push-up', 'decline-push-up']
 last_performed: null
 ---
 
 # Incline Push Up
 
-![Exercise demonstration](../images/exercises/incline-push-up.png)
+![Exercise demonstration](../images/exercises/incline-push-up.svg)
 
 ## Setup
 

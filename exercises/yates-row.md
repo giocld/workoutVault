@@ -5,14 +5,14 @@ equipment: ['barbell']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: yates-row.png
+image: yates-row.svg
 related: ['barbell-row']
 last_performed: null
 ---
 
 # Yates Row
 
-![Exercise demonstration](../images/exercises/yates-row.png)
+![Exercise demonstration](../images/exercises/yates-row.svg)
 
 ## Setup
 

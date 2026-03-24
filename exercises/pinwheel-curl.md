@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [biceps]
 importance: accessory
 tags: ['biceps', 'pull']
-image: pinwheel-curl.png
+image: pinwheel-curl.svg
 related: ['hammer-curl']
 last_performed: null
 ---
 
 # Pinwheel Curl
 
-![Exercise demonstration](../images/exercises/pinwheel-curl.png)
+![Exercise demonstration](../images/exercises/pinwheel-curl.svg)
 
 ## Setup
 

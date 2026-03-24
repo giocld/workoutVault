@@ -5,14 +5,14 @@ equipment: ['dumbbells']
 muscle_groups: [shoulders]
 importance: accessory
 tags: ['shoulders', 'push']
-image: upright-row-dumbbell.png
+image: upright-row-dumbbell.svg
 related: ['upright-row-barbell']
 last_performed: null
 ---
 
 # Upright Row Dumbbell
 
-![Exercise demonstration](../images/exercises/upright-row-dumbbell.png)
+![Exercise demonstration](../images/exercises/upright-row-dumbbell.svg)
 
 ## Setup
 

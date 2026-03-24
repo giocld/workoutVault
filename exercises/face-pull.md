@@ -5,14 +5,14 @@ equipment: ['cable']
 muscle_groups: [shoulders]
 importance: core
 tags: ['shoulders', 'push']
-image: face-pull.png
+image: face-pull.svg
 related: ['reverse-pec-deck', 'bent-over-fly']
 last_performed: null
 ---
 
 # Face Pull
 
-![Exercise demonstration](../images/exercises/face-pull.png)
+![Exercise demonstration](../images/exercises/face-pull.svg)
 
 ## Setup
 

@@ -5,14 +5,14 @@ equipment: ['bodyweight', 'pull-up-bar']
 muscle_groups: [back]
 importance: accessory
 tags: ['back', 'pull']
-image: commando-pull-up.png
+image: commando-pull-up.svg
 related: ['pull-up']
 last_performed: null
 ---
 
 # Commando Pull Up
 
-![Exercise demonstration](../images/exercises/commando-pull-up.png)
+![Exercise demonstration](../images/exercises/commando-pull-up.svg)
 
 ## Setup
 
